@@ -1,3 +1,20 @@
 .navbar-custom{
 background-color: greenyellow;
 }
+
+
+h1{
+
+    font-family:'Tilt Neon', cursive ;
+}
+
+p{
+    font-family: 'Tilt Prism',cursive;
+
+     text-shadow: 2px 2px 4px rgba(0,0,0,0.5); 
+}
+
+.navbar-nav .nav-link:hover {
+
+    color:red; 
+}
